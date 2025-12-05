@@ -1,0 +1,8 @@
+sudo dnf install mariadb -y
+
+mariadb -h database-1.c10skqkmaxue.ap-south-1.rds.amazonaws.com -u admin -p
+
+or
+
+mysql -h database-1.c10skqkmaxue.ap-south-1.rds.amazonaws.com -u admin -p
+
