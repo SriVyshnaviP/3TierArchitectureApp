@@ -3,7 +3,7 @@ mariadb --version
 mysql -h database-1.c10skqkmaxue.ap-south-1.rds.amazonaws.com -u admin -p
 
 
-
+sudo aws s3 cp s3://project-related-bucket-1/application-code/app-tier/ app-tier --recursive
 
 nginx in web-tier-----------
 sudo dnf install nginx -y
