@@ -1,7 +1,7 @@
 # Welcome  👋
 
-**Discover the power of 3-Tier Architecture!**  
-A 3-Tier Architecture app separates the presentation, application, and database layers, enhancing scalability, manageability, and security. This project showcases a robust AWS implementation of the architecture.
+**3-Tier Architecture!**  
+ 3-Tier Architecture app separates the presentation, application, and database layers, enhancing scalability, manageability, and security. This project showcases a robust AWS implementation of the architecture.
 
 ---
 
